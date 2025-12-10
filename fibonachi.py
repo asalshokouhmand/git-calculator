@@ -10,3 +10,5 @@ def fibonacci(n):
 n = int(input("enter the number: "))
 numbers = fibonacci(n)
 
+print(numbers)
+
